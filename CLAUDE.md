@@ -10,7 +10,7 @@ Read the following for project context:
 
 - @/context/project-overview.md
 - @/context/coding-standards.md
-- @/context/ai-interactions.md
+- @/context/ai-interaction.md
 - @/context/ccurrent-feature.md
 
 ## Commands
