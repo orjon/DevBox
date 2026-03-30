@@ -296,6 +296,15 @@ Payments handled via Stripe. User model tracks `stripeCustomerId` and `stripeSub
 - Syntax highlighting for all code blocks
 - Design references: Notion, Linear, Raycast
 
+### Design References
+
+Refer to screenshots below as a refernce for the UI. It does not have to be exact - this is a guide/reference only.
+
+- @context/screenshots/UI-dashboard.png
+- @context/screenshots/UI-dashboard-minimized_menu.png
+- @context/screenshots/UI-dashboard-drawer_open.png
+- @context/screenshots/UI-collection.png
+
 ### Layout
 
 ```
