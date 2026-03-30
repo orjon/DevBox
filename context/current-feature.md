@@ -1,13 +1,22 @@
 # Current Feature
 
-<!-- Feature name and description -->
+Dashboard UI Phase 2 — see @context/features/dashboard-phase-2-spec.md
+
+Reference UI: @context/screenshots/UI-dashboard.png
 
 ## Status
 
-<!-- Not started | In progress | Completed -->
+In progress
 
 ## Goals and requirements
 
+- Collapsible sidebar
+- Items/types with links to /items/TYPE (eg. items/snippets)
+- Favorite collections
+- Most recent collections
+- User avatar area at the bottom
+- Drawer icon to open/close sidebar
+- Always a drawer on mobile view
 
 ## Notes
 
