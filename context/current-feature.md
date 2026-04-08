@@ -1,19 +1,16 @@
 # Current Feature
 
-Database Setup — see @context/features/04-database-spec.md
+Seed Data — see @context/features/05-seed-spec.md
 
 ## Status
 
-Complete
+In Progress
 
 ## Goals and requirements
 
-- Set up Prisma ORM with Neon PostgreSQL (serverless)
-- Create initial schema based on data models in project-overview.md
-- Include NextAuth models (Account, Session, VerificationToken)
-- Add appropriate indexes and cascade deletes
-- Use Prisma 7 (breaking changes — read upgrade guide before implementing)
-- Always create migrations, never push directly to DB
+- Populate the database with sample data for development and demos
+- Overwrite existing `prisma/seed.ts`
+- Create a user (john@mail.com), 7 system item types, 5 collections with items per spec
 
 ## Notes
 
