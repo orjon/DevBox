@@ -7,6 +7,19 @@ DevBox is a toolbox for developers to store and quickly access the resources the
 
 ---
 
+## Status
+
+> **In active development** — not yet production ready.
+
+| Phase | Description | Status |
+|---|---|---|
+| Project setup | Next.js, Tailwind, shadcn/ui | ✅ Complete |
+| Dashboard UI | Sidebar, collections grid, stats, pinned/recent items | ✅ Complete |
+| Database | Prisma 7 + Neon schema, migrations | ✅ Complete |
+| Seed data | Sample user, types, collections, and items | ✅ Complete |
+
+---
+
 ## Technologies
 
 | | |
